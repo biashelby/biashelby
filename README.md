@@ -1,6 +1,6 @@
 
 
-# Bianca Borges Da Silva
+# Bianca Borges 
 
 ### Cybersecurity & DevSecOps 
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 Estudante de tecnologia focada em construir uma base sólida em **DevSecOps e Segurança de Aplicações**. Com fundamentos em Cibersegurança certificados pelo **Google** e **Santander Bootcamp**, busco aplicar meu perfil analítico para desenvolver arquiteturas seguras e resilientes — com interesse especial no setor financeiro.
 
@@ -28,7 +28,7 @@ Estudante de tecnologia focada em construir uma base sólida em **DevSecOps e Se
 
 ---
 
-## 🛠️ Stack & Ferramentas
+## Stack & Ferramentas
 
 **Segurança & Infraestrutura**
 
@@ -50,7 +50,7 @@ Estudante de tecnologia focada em construir uma base sólida em **DevSecOps e Se
 
 ---
 
-## 📜 Certificações
+## Certificações
 
 - 🏅 **Google Cybersecurity Professional Certificate** — Google / Coursera
 - 🏅 **Santander Bootcamp: Cybersecurity Specialist** — Santander / DIO
