@@ -21,7 +21,6 @@
 Estudante de tecnologia focada em construir uma base sólida em **DevSecOps e Segurança de Aplicações**. Com fundamentos em Cibersegurança certificados pelo **Google** e **Santander Bootcamp**, busco aplicar meu perfil analítico para desenvolver arquiteturas seguras e resilientes.
 
 - 🛡️ Foco em Cibersegurança
-- 🌱 Atualmente aprofundando: **Java Spring Boot** · **Docker** · **Cloud (AWS/Azure)**
 - 🏦 Objetivo: estágio 
 - 🏅 Embaixadora Universitária da **DIO**
 
