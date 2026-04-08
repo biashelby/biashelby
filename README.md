@@ -19,11 +19,11 @@
 
 ## ☕🤎 Sobre mim
 
-Estudante de tecnologia focada em construir uma base sólida em **DevSecOps e Segurança de Aplicações**. Com fundamentos em Cibersegurança certificados pelo **Google** e **Santander Bootcamp**, busco aplicar meu perfil analítico para desenvolver arquiteturas seguras e resilientes — com interesse especial no setor financeiro.
+Estudante de tecnologia focada em construir uma base sólida em **DevSecOps e Segurança de Aplicações**. Com fundamentos em Cibersegurança certificados pelo **Google** e **Santander Bootcamp**, busco aplicar meu perfil analítico para desenvolver arquiteturas seguras e resilientes.
 
-- 🛡️ Foco em **Ethical Hacking**, **OWASP Top 10** e automação com **CI/CD**
+- 🛡️ Foco em Cibersegurança
 - 🌱 Atualmente aprofundando: **Java Spring Boot** · **Docker** · **Cloud (AWS/Azure)**
-- 🏦 Objetivo: estágio em **segurança ofensiva/defensiva** no setor bancário/financeiro
+- 🏦 Objetivo: estágio 
 - 🏅 Embaixadora Universitária da **DIO**
 
 ---
