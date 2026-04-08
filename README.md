@@ -5,7 +5,6 @@
 ### Cybersecurity & DevSecOps 
 
 *Estudante de Ciência da Computação apaixonada por Segurança da Informação.*
-*Transformando teoria em prática, um projeto de cada vez.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-borges-ia/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=framer&logoColor=white)](https://biancaborges.framer.ai)
