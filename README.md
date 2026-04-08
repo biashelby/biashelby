@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/@biashelby-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biashelby)
 
 
-
+![Banner](./Design%20sem%20nome.png)
 
 ---
 
