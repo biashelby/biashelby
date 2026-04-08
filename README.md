@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-borges-ia/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=framer&logoColor=white)](https://biancaborges.framer.ai)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biancabsilvaaae@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bianca.borges2@pucpr.edu.br)
 [![Instagram](https://img.shields.io/badge/@biashelby-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biashelby)
 
 
