@@ -8,11 +8,11 @@
 
 #### ☕ Sobre mim
 
-Estudante de tecnologia focada em construir uma base sólida em **DevSecOps e Segurança de Aplicações**. Com fundamentos em Cibersegurança certificados pelo **Google** e **Santander Bootcamp**, busco aplicar meu perfil analítico para desenvolver arquiteturas seguras e resilientes.
+Estudante de tecnologia focada em construir uma base sólida em DevSecOps e Segurança de Aplicações. Com fundamentos em Cibersegurança certificados pelo Google e Santander Bootcamp.
 
-- Foco em Cibersegurança
-- Objetivo: Estágio 
-- Embaixadora Universitária da **DIO**
+- **Objetivo:** Estágio em Tecnologia
+- **Foco:** Cibersegurança
+- **Liderança & Soft Skills:** Embaixadora Universitária (DIO) e Fundadora de comunidade digital (Dark Academia Society), aliando trabalho em equipe, resolução de problemas e visão de negócios.
 
 ---
 
