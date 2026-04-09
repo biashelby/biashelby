@@ -4,8 +4,6 @@
 
 ### Cybersecurity & DevSecOps 
 
-*Estudante de Ciência da Computação apaixonada por Segurança da Informação.*
-
 ---
 
 #### ☕ Sobre mim
