@@ -8,13 +8,13 @@
 
 ---
 
-#### ☕🤎 Sobre mim
+#### ☕ Sobre mim
 
 Estudante de tecnologia focada em construir uma base sólida em **DevSecOps e Segurança de Aplicações**. Com fundamentos em Cibersegurança certificados pelo **Google** e **Santander Bootcamp**, busco aplicar meu perfil analítico para desenvolver arquiteturas seguras e resilientes.
 
-- 🛡️ Foco em Cibersegurança
-- 🏦 Objetivo: estágio 
-- 🏅 Embaixadora Universitária da **DIO**
+- ☕ Foco em Cibersegurança
+- ☕ Objetivo: Estágio 
+- ☕ Embaixadora Universitária da **DIO**
 
 ---
 
@@ -45,8 +45,8 @@ Estudante de tecnologia focada em construir uma base sólida em **DevSecOps e Se
 - 🏅 **Google Cybersecurity Professional Certificate** — Google / Coursera
 - 🏅 **Santander Bootcamp: Cybersecurity Specialist** — Santander / DIO
 - 🏅 **Riachuelo Bootcamp: Cibersegurança Ofensiva e Defensiva** — Riachuelo / DIO
-- 📊 **Fundamentos de Power BI** — Santander Open Academy
-- 📚 **Gestão de Tempo e Produtividade** — Harvard Business Publishing / Santander
+- ☕ **Fundamentos de Power BI** — Santander Open Academy
+- ☕ **Gestão de Tempo e Produtividade** — Harvard Business Publishing / Santander
 
 ---
 
