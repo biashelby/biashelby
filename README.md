@@ -13,7 +13,7 @@ Estudante de tecnologia focada em construir uma base sólida em DevSecOps e Segu
 *  **Objetivo:** Estágio
 *  **Foco:** Cibersegurança
 *  **Embaixadora DIO:** Colaboração e engajamento em comunidades tech.
-*  **Fundadora da Comunidade Dark Academia:** Gestão estratégica, visão de negócios e mediação.
+*  **Fundadora de Comunidade Digital:** Gestão estratégica, visão de negócios e mediação.
 
 ---
 
