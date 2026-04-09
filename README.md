@@ -6,17 +6,9 @@
 
 *Estudante de Ciência da Computação apaixonada por Segurança da Informação.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-borges-ia/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=framer&logoColor=white)](https://biancaborges.framer.ai)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bianca.borges2@pucpr.edu.br)
-[![Instagram](https://img.shields.io/badge/@biashelby-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biashelby)
-
-
-![Banner](./Design%20sem%20nome.png)
-
 ---
 
-## ☕🤎 Sobre mim
+#### ☕🤎 Sobre mim
 
 Estudante de tecnologia focada em construir uma base sólida em **DevSecOps e Segurança de Aplicações**. Com fundamentos em Cibersegurança certificados pelo **Google** e **Santander Bootcamp**, busco aplicar meu perfil analítico para desenvolver arquiteturas seguras e resilientes.
 
@@ -26,7 +18,7 @@ Estudante de tecnologia focada em construir uma base sólida em **DevSecOps e Se
 
 ---
 
-## ☕ Stack & Ferramentas
+#### ☕ Stack & Ferramentas
 
 **Segurança & Infraestrutura**
 
@@ -48,7 +40,7 @@ Estudante de tecnologia focada em construir uma base sólida em **DevSecOps e Se
 
 ---
 
-## ☕ Certificações
+#### ☕ Certificações
 
 - 🏅 **Google Cybersecurity Professional Certificate** — Google / Coursera
 - 🏅 **Santander Bootcamp: Cybersecurity Specialist** — Santander / DIO
@@ -57,7 +49,6 @@ Estudante de tecnologia focada em construir uma base sólida em **DevSecOps e Se
 - 📚 **Gestão de Tempo e Produtividade** — Harvard Business Publishing / Santander
 
 ---
-
 
 
 
