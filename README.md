@@ -37,6 +37,23 @@ Estudante de tecnologia focada em construir uma base sólida em DevSecOps e Segu
 
 `Power BI` `Pandas` `RabbitMQ / Kafka (noções)`
 
+**Segurança & Infraestrutura**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kali)](https://skillicons.dev)
+
+`Metasploit` `OWASP Top 10` `Nmap` `tcpdump` `Medusa` `Wireshark` `Virtualização`
+
+**Desenvolvimento & Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,git,github)](https://skillicons.dev)
+
+`APIs REST` `SQL` `CI/CD` `GitHub Actions` `Postman`
+
+**Cloud & Dados**
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+
+`Power BI` `Pandas` `RabbitMQ / Kafka (noções)`
 ---
 
 #### ☕ Certificações
