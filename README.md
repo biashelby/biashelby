@@ -21,13 +21,13 @@ Estudante de tecnologia focada em construir uma base sólida em DevSecOps e Segu
 
 **Segurança & Infraestrutura**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,kali,redhat)](https://skillicons.dev)
 
 `Metasploit` `OWASP Top 10` `Nmap` `tcpdump` `Medusa` `Wireshark` `Virtualização`
 
 **Desenvolvimento & Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,spring,git,github,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,spring,git,github,githubactions,vscode)](https://skillicons.dev)
 
 `APIs REST` `SQL` `CI/CD` `GitHub Actions` `Postman`
 
@@ -37,6 +37,9 @@ Estudante de tecnologia focada em construir uma base sólida em DevSecOps e Segu
 
 `Power BI` `Pandas` `RabbitMQ / Kafka (noções)`
 
+**Documentação & Produtividade**
+
+[![My Skills](https://skillicons.dev/icons?i=latex,notion,obsidian)](https://skillicons.dev)
 ---
 
 #### ☕ Certificações
