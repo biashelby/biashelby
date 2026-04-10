@@ -27,7 +27,7 @@ Estudante de tecnologia focada em construir uma base sólida em DevSecOps e Segu
 
 **Desenvolvimento & Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,spring,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,git,github,githubactions)](https://skillicons.dev)
 
 `APIs REST` `SQL` `CI/CD` `GitHub Actions` `Postman`
 
