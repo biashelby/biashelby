@@ -21,7 +21,7 @@ Estudante de tecnologia focada em construir uma base sólida em DevSecOps e Segu
 
 **Segurança & Infraestrutura**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,kali,redhat)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,kali,redhat,terraform,debian,kubernetes,grafana,jenkins)](https://skillicons.dev)
 
 `Metasploit` `OWASP Top 10` `Nmap` `tcpdump` `Medusa` `Wireshark` `Virtualização`
 
