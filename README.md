@@ -2,7 +2,7 @@
 
 ### Bianca Borges 
 
-### Cybersecurity & DevSecOps 
+### Cybersecurity & IA
 
 ---
 
