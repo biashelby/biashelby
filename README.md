@@ -49,6 +49,7 @@ Estudante de tecnologia focada em construir uma base sólida em DevSecOps e Segu
 -  **Riachuelo Bootcamp: Cibersegurança Ofensiva e Defensiva** — Riachuelo / DIO
 -  **Fundamentos de Power BI** — Santander Open Academy
 -  **Gestão de Tempo e Produtividade** — Harvard Business Publishing / Santander
+-  **nível 1: ssdlc, owasp top 10 e threat modeling da carreira appsec**— desenvolvimento seguro de aplicações / Alura
 
 ---
 
