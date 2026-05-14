@@ -10,10 +10,6 @@
 
 Estudante de tecnologia focada em construir uma base sólida em DevSecOps e Segurança de Aplicações. Com fundamentos em Cibersegurança, busco aplicar meu perfil analítico para desenvolver arquiteturas seguras e resilientes.
 
-*  **Foco:** Cibersegurança
-*  **Embaixadora DIO:** Colaboração e engajamento em comunidades tech.
-*  **Fundadora de Comunidade Digital:** Gestão estratégica, visão de negócios e mediação.
-
 ---
 
 #### ☕ Stack & Ferramentas
@@ -36,25 +32,7 @@ Estudante de tecnologia focada em construir uma base sólida em DevSecOps e Segu
 
 `Power BI` `Pandas` `RabbitMQ / Kafka (noções)`
 
-**Documentação & Produtividade**
-
-[![My Skills](https://skillicons.dev/icons?i=latex,notion,obsidian)](https://skillicons.dev)
 ---
-
-#### ☕ Certificações
-
--  **Google Cybersecurity Professional Certificate** — Google / Coursera
--  **Santander Bootcamp: Cybersecurity Specialist** — Santander / DIO
--  **Riachuelo Bootcamp: Cibersegurança Ofensiva e Defensiva** — Riachuelo / DIO
--  **Fundamentos de Power BI** — Santander Open Academy
--  **Gestão de Tempo e Produtividade** — Harvard Business Publishing / Santander
--  **Nível 1: ssdlc, Owasp Top 10 e Threat Modeling da Carreira AppSec** — Desenvolvimento seguro de aplicações / Alura
-
----
-
-
-
-
 
 *"Security is not a product, but a process."* — Bruce Schneier
 
