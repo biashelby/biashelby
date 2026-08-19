@@ -2,7 +2,7 @@
 
 ### Bianca Borges 
 
-### Cybersecurity & IA
+### Computer Scientist | BCI & Technology
 
 ---
 
