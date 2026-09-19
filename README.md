@@ -1,38 +1,41 @@
 
 
-### Bianca Borges 
+### Bianca Borges
 
-### Computer Scientist | BCI & Technology
+### Computer Scientist & Medical Student | Neurotechnology & Brain-Computer Interfaces (BCI)
 
 ---
 
 #### ☕ Sobre mim
 
-Estudante de tecnologia focada em construir uma base sólida em DevSecOps e Segurança de Aplicações. Com fundamentos em Cibersegurança, busco aplicar meu perfil analítico para desenvolver arquiteturas seguras e resilientes.
+Estudante de Ciência da Computação e Medicina, focada na intersecção entre Sistemas Computacionais, Neurotecnologia e Brain-Computer Interfaces (BCI). 
+
+**Foco de pesquisa & estudo:** Brain-Computer Interfaces (BCI), Processamento de Sinais Neural/EEG, Neurofisiologia Clínica, Machine Learning em Biosinais e Neuroengenharia.
+
+**Projetos:** Pipelines para extração e classificação de dados neurais em tempo real, automação e arquiteturas de software aplicadas à neurotecnologia.
 
 ---
 
 #### ☕ Stack & Ferramentas
 
-**Segurança & Infraestrutura**
+**Linguagens & Computação Científica**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,kali,redhat,terraform,debian,kubernetes,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,matlab,git,github,vscode)](https://skillicons.dev)
 
-`Metasploit` `OWASP Top 10` `Nmap` `tcpdump` `Medusa` `Wireshark` `Virtualização`
+`NumPy` `SciPy` `Pandas` `MNE-Python` `PyRiemann` `Signal Processing (FFT, ICA, CSP)`
 
-**Desenvolvimento & Backend**
+**Neurotech, Biosignals & Machine Learning**
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,spring,git,github,githubactions,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,anaconda)](https://skillicons.dev)
 
-`APIs REST` `SQL` `CI/CD` `GitHub Actions` `Postman`
+`BrainFlow` `Lab Streaming Layer (LSL)` `OpenBCI` `EEGNet` `Machine Learning / Deep Learning`
 
-**Cloud & Dados**
+**Sistemas, Embarcados & Infraestrutura**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,linux,docker,postgres,githubactions)](https://skillicons.dev)
 
-`Power BI` `Pandas` `RabbitMQ / Kafka (noções)`
+`Sistemas Embarcados` `Comunicação Serial / BLE` `APIs REST` `SQL` `CI/CD`
 
 ---
 
-*"Security is not a product, but a process."* — Bruce Schneier
-
+*"Exploring the frontier where neural activity meets computational architecture."*
